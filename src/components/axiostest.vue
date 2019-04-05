@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
   </header>
-  
+
   <div class="container">
     <div class="row mb-4 justify-content-center">
   <h1 id="title" class="container-fluid my-3">Floyd myWeather</h1>
@@ -162,7 +162,7 @@ export default {
       var city = firstL.concat(rest); //create the new text store it
 
       // GET DATA FROM THE OPENWEATHERMAP API
-      var weatherURI = 'http://api.openweathermap.org/data/2.5/forecast?q=' + city + '&units=metric&APPID=0b38ff1f9a3b7d41f3c382d42d099d03'
+      var weatherURI = 'https://api.openweathermap.org/data/2.5/forecast?q=' + city + '&units=metric&APPID=0b38ff1f9a3b7d41f3c382d42d099d03'
       this.axios.get(weatherURI).then((response) => {
         console.log(response.data)
         // FUNCTION TO TRANSFORM DATE DATA FROM API INTO ITS CORRESPONDING DAY OF THE WEEK.
