@@ -1,29 +1,18 @@
-# withbootstrap
+# FLOYD MYWEATHER
 
-## Project setup
-```
-npm install
-```
+This isn't my first rodeo with VUE.js ! But, it is the biggest project I've done with VUE.js as of yet...
+I've had to fix the "mixed network request" error by changing all the HTTP in my dist into HTTPS.
+I also had to fix, with the help of Jean-Marc BROUTIN the holy, the mistyped href links in my index.html in my dist folder.
+Here's the link to the [website](https://jean-oikonomou.github.io/FLOYDMYWEATHER/dist/#)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# FIGMA
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Here's the link to my [Figma](https://www.figma.com/file/MUSukZoNaNOy8YAq28198SkW/OpenWeatherMap?node-id=0%3A1). It looks NOTHING like my first thought of this project!
 
-### Run your tests
-```
-npm run test
-```
+# Contributors
 
-### Lints and fixes files
-```
-npm run lint
-```
+Cédric VAN HOVE contributed greatly to my project. Even though we each decided to make our own Weather App, explaining why you're getting two different weather apps from the both of us, we helped each other A LOT. We just really wanted to make our own, unique, weather app. Jean-Marc BROUTIN helped me a lot during the Github Page phase. I also helped a lot other people, and I hope they'll mention me sometime :'(
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Misc
+
+Build with VUE.js. Project given on time on the 05/04/20019, at 16.50.
