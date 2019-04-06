@@ -2,7 +2,7 @@
 
 This isn't my first rodeo with VUE.js ! But, it is the biggest project I've done with **VUE.js** as of yet...
 I've had to fix the **"mixed network request"** error by changing all the HTTP in my dist into HTTPS.
-I also had to fix, with the help of **Jean-Marc BROUTIN**, the holy, the mistyped href links in my index.html in my dist folder. They were created without the **dot** in front of the **slash**, I could fix that by taking all the files out of the dist folders and putting them at the root of my project, this way I won't need to put **/dist/** in front of my Github Page URL.
+I also had to fix, with the help of **Jean-Marc BROUTIN**, the holy, the mistyped href links in my index.html. They were created without the **dot** in front of the **slash**, I could fix that by taking all the files out of the dist folders and putting them at the root of my project, this way I won't need to put **/dist/** in front of my Github Page URL. I don't feel comfortable doing that though.
 Here's the link to the [website](https://jean-oikonomou.github.io/FLOYDMYWEATHER/dist/#).
 
 # FIGMA
