@@ -7,7 +7,7 @@ Here's the link to the [website](https://jean-oikonomou.github.io/FLOYDMYWEATHER
 
 # FIGMA
 
-Here's the link to my [Figma](https://www.figma.com/file/MUSukZoNaNOy8YAq28198SkW/OpenWeatherMap?node-id=0%3A1). It looks NOTHING like my first thought of this project!
+Here's the link to my [Figma](https://www.figma.com/file/MUSukZoNaNOy8YAq28198SkW/OpenWeatherMap?node-id=0%3A1). The final product does not look at all like my first thought of this project!
 
 # Contributors
 
