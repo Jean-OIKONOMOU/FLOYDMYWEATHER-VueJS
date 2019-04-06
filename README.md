@@ -15,4 +15,4 @@ Here's the link to my [Figma](https://www.figma.com/file/MUSukZoNaNOy8YAq28198Sk
 
 # Misc
 
-Built with VUE.js. Project given on time on the **05/04/2019**, at **16.50**.
+Built with **VUE.js**. Project given on time on the **05/04/2019**, at **16.50**.
