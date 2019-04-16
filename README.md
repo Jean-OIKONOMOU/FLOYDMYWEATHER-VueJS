@@ -1,3 +1,5 @@
+## Big up to the people that supported me [**Cédric VAN HOVE**](https://github.com/cevaho) [**Jean-Marc BROUTIN**](https://github.com/jmbroutin)
+
 # FLOYD MYWEATHER
 
 This isn't my first rodeo with VUE.js ! But, it is the biggest project I've done with **VUE.js** as of yet...
@@ -11,7 +13,7 @@ Here's the link to my [Figma](https://www.figma.com/file/MUSukZoNaNOy8YAq28198Sk
 
 # Contributors
 
-**Cédric VAN HOVE** contributed greatly to my project. Even though we each decided to make our own Weather App, which explains why you're getting two different weather apps from the both of us, we helped each other A LOT. We just really wanted to make our own, unique, weather app. **Jean-Marc BROUTIN** helped me a lot during the Github Page phase. I also helped other people a lot, and I hope they'll mention me sometime **:'(**
+[**Cédric VAN HOVE**](https://github.com/cevaho) contributed greatly to my project. Even though we each decided to make our own Weather App, which explains why you're getting two different weather apps from the both of us, we helped each other A LOT. We just really wanted to make our own, unique, weather app. **Jean-Marc BROUTIN** helped me a lot during the Github Page phase. I also helped other people a lot, and I hope they'll mention me sometime **:'(**
 
 # Misc
 
